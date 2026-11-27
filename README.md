@@ -14,5 +14,5 @@
 | [vault-door-4](./vault-door-4.md) | medium | hex / octal / chr / ord |
 | [vault-door-5](./vault-door-5.md) | medium | base64 + url encoding |
 | [vault-door-6](./vault-door-6.md) | medium | xor |
-| [vault-door-7](./vault-door-7.md) | hard | bytearray + bit ops |
-| [vault-door-8](./vault-door-8.md) | hard |  |
+| [vault-door-7](./vault-door-7.md) | hard | bit shifting + to_bytes |
+| [vault-door-8](./vault-door-8.md) | hard | bit swapping + undo in reverse |
